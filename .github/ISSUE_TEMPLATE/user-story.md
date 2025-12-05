@@ -1,21 +1,3 @@
----
-name: User Story
-about: User story for agile planning
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: Template creating a user story
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
